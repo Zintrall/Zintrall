@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I’m currently working on ...
-  - learning to program (Minecraft Bots, Zig, Python, AoC, C++, C, Rust)
-- I’m currently learning zig. 
+  - learning to program (Minecraft Bots, Zig, Python, AoC, C++, C)
+- I’m currently doing KSI. 
 <!--
 **Zintrall/Zintrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
